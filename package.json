@@ -1,0 +1,10 @@
+{
+  "name": "jest-environment-nwjs",
+  "version": "25.1.0",
+  "author": "Lily Scott <me@suchipi.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "jest-environment-node": "^25.1.0"
+  }
+}
